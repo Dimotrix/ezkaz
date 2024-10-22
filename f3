@@ -39,7 +39,7 @@ getgenv().SecondSea = "Impel Base" -- or other second sea island
 -- "Sett's Arena"
 getgenv().SetSpawnSecondSea = true -- Auto Set Spawn on Second Sea Island (SET TRUE AUTO GO TO SECOND SEA)
 
-getgenv().PrivateServerCode = "msLBPLF8Gp" -- Put Your Private Server Code
+getgenv().PrivateServerCode = "pexEgHGSF5" -- Put Your Private Server Code
 getgenv().WebhookURL = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA" -- Put Your Webhook
 
 getgenv().AutoFastMode = true -- Auto Fast Mode
